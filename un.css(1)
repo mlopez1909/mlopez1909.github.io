@@ -1,0 +1,22 @@
+body {
+background: rgb(68,0,0);
+background: linear-gradient(90deg, rgba(68,0,0,1) 0%, rgba(125,6,6,1) 53%, rgba(0,0,0,1) 100%);
+ font-family: American Typewriter, georgia;
+ font-size: 100%
+}
+
+h1{
+font-size: 250%;
+color: #FFFFFF;
+text-align: center;
+}
+
+h2{
+font-size:150%;
+color:#FFFFFF;
+padding-left: 15px;
+}
+
+p{
+color: #FFFFFF;
+}
